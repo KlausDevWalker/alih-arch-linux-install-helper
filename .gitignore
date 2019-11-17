@@ -1,0 +1,9 @@
+#Folders ignored by git
+.vscode/ 
+.assets/
+
+#Files ignored by git
+*.tar
+*.tar.gz
+*.zip
+dummy-file
